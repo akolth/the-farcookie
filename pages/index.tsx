@@ -1,4 +1,5 @@
 import { createFrames } from "frames.js/next";
+import React from "react";
 
 const frames = createFrames();
 
